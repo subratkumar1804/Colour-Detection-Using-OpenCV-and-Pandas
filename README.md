@@ -11,4 +11,9 @@ The panda’s library is very useful when we need to perform various operations 
 We have assigned each column with a name for easy accessing.
 OpenCV Library is useful for detect the image and color values and name. It will calculate the RGB value of the pixels. The functions the parameters have the event name (X, Y) coordinates of the position. This is called draw function. Which was created by OpenCV and Pandas.
 
+<h3>How To Run: </h3>
+Open Pycharm IDE.
+Install OpenCV and Pandas Module 
+Run the file using the command python filname.py --image (img name)
+
 
