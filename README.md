@@ -1,1 +1,1 @@
-# Colour-Detection-Using-OpenCV-and-Pand
+# Colour-Detection-Using-OpenCV-and-Panda
