@@ -1,4 +1,4 @@
-# Colou-Detection-Using-OpenCV-and-Pandas
+# Colour-Detection-Using-OpenCV-and-Pandas
 
 Color detection is the process of detecting name of the color. Here this is easy task for humans to detect the color and choose one.
 But computer cannot detect the color easily. This is tough task for computer to detect the color easily. So that’s why we choose this project.
